@@ -1,0 +1,19 @@
+Stack:
+	
+pseudo kod(yigita eleman ekleme -itme-):
+	if (Stack bos mu):
+		top = yeni node
+		top'tan bir sonraki eleman = null
+		
+	else if (Stack dolu mu):
+		ekrana yazdir (Liste bostur)
+		fonksiyondan cik
+		
+	else:
+		yeni node'tan bir sonraki eleman = top
+		top = node
+	
+	size = size + 1
+	
+pseudo kod
+		
